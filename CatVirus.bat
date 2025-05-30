@@ -1,5 +1,7 @@
 @echo off
 
+:: Hello my frend! Thank you for downloading my silly project, this isnt made to harm or damage your computer in any way, enjoy!
+
 echo.
 echo [-- silly cat virus --]
 echo [1.0.0]
